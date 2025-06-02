@@ -18,3 +18,7 @@ class remoteLampu
 };
 
 int main()
+{
+    remoteLampu lampuRumah;
+
+   
