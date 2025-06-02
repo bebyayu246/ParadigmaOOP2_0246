@@ -17,3 +17,4 @@ class remoteLampu
         }
 };
 
+int main()
