@@ -30,3 +30,5 @@ class lia : public seseorang
 };
 
 int main()
+{
+    seseorang *obyek;
