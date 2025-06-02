@@ -21,3 +21,7 @@ class joko : public seseorang
 };
 
 class lia : public seseorang
+{
+    public :
+        void pesan()
+       
